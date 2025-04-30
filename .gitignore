@@ -1,0 +1,19 @@
+# ✅ Python bytecode
+__pycache__/
+*.pyc
+
+# ✅ 虛擬環境
+.venv/
+env/
+venv/
+
+# ✅ IDE 設定檔
+.idea/
+.vscode/
+
+# ✅ 私密設定
+.env
+
+# ✅ 本地暫存檔或資料夾
+message_record/
+*.sqlite3
